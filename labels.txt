@@ -1,0 +1,3 @@
+0 orange
+1 apfel
+2 birne
